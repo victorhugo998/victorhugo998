@@ -1,9 +1,40 @@
-<h2 align="left">Victor Hugo</h2>
+<h1>Victor Hugo</h1>
+
 <p>
-Estudante de ADS • 18 anos<br>
-HTML, CSS, C, JavaScript<br>
-Node.js (iniciante) • Backend
+Desenvolvedor Backend em formação • Estudante de ADS<br>
+18 anos
 </p>
+
+<h2>Tecnologias</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>C</li>
+  <li>JavaScript</li>
+  <li>Node.js (iniciante)</li>
+</ul>
+
+<h2>Sobre mim</h2>
+<p>
+Curto backend e lógica de programação.<br>
+Já desenvolvi projetos práticos como calculadora e sistema de RH.<br>
+Atualmente focado em Node.js e APIs REST.
+</p>
+
+<h2>Projetos</h2>
+<ul>
+  <li>🧮 Calculadora em C</li>
+  <li>🏢 Sistema de RH (C / JavaScript)</li>
+  <li>🚧 API com Node.js (em desenvolvimento)</li>
+</ul>
+
+<h2>Estudando agora</h2>
+<ul>
+  <li>Node.js</li>
+  <li>APIs REST</li>
+  <li>Git e GitHub</li>
+  <li>Banco de dados (SQL)</li>
+</ul>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
