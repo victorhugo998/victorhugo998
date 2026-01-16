@@ -1,5 +1,10 @@
-<h2 align="left">Victor Hugo<br>idade : 18</h2>
-
+<h2 align="left">Victor Hugo</h2>
+<p>
+18 anos • Desenvolvedor em formação<br>
+Experiência com C e JavaScript<br>
+Projetos práticos: Calculadora, Sistema de RH<br>
+Estudando lógica de programação, estruturas de controle e desenvolvimento backend
+</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
