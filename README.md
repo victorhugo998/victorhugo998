@@ -1,9 +1,8 @@
 <h2 align="left">Victor Hugo</h2>
 <p>
-18 anos • Desenvolvedor em formação<br>
-Experiência com C e JavaScript<br>
-Projetos práticos: Calculadora, Sistema de RH<br>
-Estudando lógica de programação, estruturas de controle e desenvolvimento backend
+Estudante de ADS • 18 anos<br>
+HTML, CSS, C, JavaScript<br>
+Node.js (iniciante) • Backend
 </p>
 
 <div align="center">
