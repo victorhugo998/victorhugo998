@@ -2,7 +2,6 @@
 
 <p>
 Desenvolvedor Backend em formação • Estudante de ADS<br>
-18 anos
 </p>
 
 <h2>Tecnologias</h2>
