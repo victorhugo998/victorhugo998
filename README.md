@@ -29,11 +29,12 @@ Atualmente focado em Node.js e APIs REST.
 
 <h2>Estudando agora</h2>
 <ul>
-  <li>Node.js</li>
-  <li>APIs REST</li>
-  <li>Git e GitHub</li>
-  <li>Banco de dados (SQL)</li>
+  <li>Node.js para backend</li>
+  <li>Criação de APIs REST</li>
+  <li>CRUD (Node.js + SQL)</li>
+  <li>Automação de tarefas com Node.js</li>
 </ul>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
